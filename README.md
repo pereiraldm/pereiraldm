@@ -4,7 +4,7 @@
 
 <div id="badges">
  <a href = "https://www.linkedin.com/in/lucas-de-morais-pereira" target="_blank" rel="external">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
  </a>
  <a href = "https://www.instagram.com/pereiraldm/" target = "_blank" rel = "external">
   <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>

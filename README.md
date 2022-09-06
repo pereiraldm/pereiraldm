@@ -26,7 +26,7 @@ I'm a Full Stack coding student 👨🏻‍🎓 👨🏻‍💻 and so far I hav
  
  ---
  
- <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraldm&layout=compact&show_icons=true&theme=highcontrast&count_private=true"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=pereiraldm&layout=compact&show_icons=true&theme=highcontrast&count_private=true"/>
+ <div align="center">
+   <img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraldm&layout=compact&show_icons=true&theme=highcontrast&count_private=true"/>
+   <img height = "100em" src="https://github-readme-stats.vercel.app/api?username=pereiraldm&layout=compact&show_icons=true&theme=highcontrast&count_private=true"/>
 </div>

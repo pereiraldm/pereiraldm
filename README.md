@@ -2,12 +2,12 @@
 
 # 😎 Hey, welcome to my GitHub! 😎
 
-<div id="badges">
+<div>
  <a href = "https://www.linkedin.com/in/lucas-de-morais-pereira" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
  </a>
  <a href = "https://www.instagram.com/pereiraldm/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt = "Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
  </a>
 </div>
 

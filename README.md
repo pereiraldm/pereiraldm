@@ -29,4 +29,6 @@ I'm a Full Stack coding student 👨🏻‍🎓 👨🏻‍💻 and so far I hav
  <div align="left">
    <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraldm&layout=compact&show_icons=true&theme=highcontrast&count_private=true"/>
    <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=pereiraldm&layout=compact&show_icons=true&theme=highcontrast&count_private=true"/>
+ 
+  ![Snake animation](https://github.com/pereiraldm/pereiraldm/blob/output/github-contribution-grid-snake.svg)
 </div>
